@@ -1,0 +1,2 @@
+ASPECT_NONE     = 0
+ASPECT_SQUARE   = 1
